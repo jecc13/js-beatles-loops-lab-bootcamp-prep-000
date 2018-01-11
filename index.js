@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
   while (j < facts.length) {
     superFact = facts[j] + "!!!";
     exclaimArray.push(superFact);
-    j--;
+    j++;
   }
   return exclaimArray;
 }
