@@ -20,6 +20,15 @@ function johnLennonFacts(facts) {
   return exclaimArray;
 }
 
+function iLoveTheBeatles(number) {
+  var loveArray = [];
+  
+  
+  return loveArray;
+}
+
+
+
 function whileLoop(number) {
   while (number > 0) {
     console.log(--number);
