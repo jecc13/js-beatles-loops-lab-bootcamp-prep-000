@@ -22,16 +22,13 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   var loveArray = [];
+  do {
+    
+  } while (number < 15);
   
+
   
   return loveArray;
 }
 
 
-
-function whileLoop(number) {
-  while (number > 0) {
-    console.log(--number);
-  }
-  return 'done';  
-}
