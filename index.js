@@ -14,7 +14,6 @@ function johnLennonFacts(facts) {
   var j = 0;
   var superFact = "";
   while (j < facts.length) {
-    superFact = "";
     superFact = facts[j] + "!!!"
     exclaimArray.push(superFact);
     j--;
