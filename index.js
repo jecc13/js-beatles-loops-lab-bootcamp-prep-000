@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
   return sentenceArray;
 }
 
-/*
+
 function johnLennonFacts(facts) {
   var exclaimArray = [];
   var j = 0;
@@ -21,7 +21,6 @@ function johnLennonFacts(facts) {
   }
   return exclaimArray;
 }
-*/
 
 function iLoveTheBeatles(number) {
   var loveArray = [];
